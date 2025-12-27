@@ -85,5 +85,9 @@ This transition allows shared task lists and real persistence across devices.
 
 <h2><strong>Status</strong></h2>
 
-<strong>Project initialization complete</strong>  
-Next step: Build the static HTML user interface.
+- Project initialization complete
+- Built static HTML user interface.
+- Completed form submission handling
+
+Next step:
+Dynamically add tasks to the list using DOM manipulation.
